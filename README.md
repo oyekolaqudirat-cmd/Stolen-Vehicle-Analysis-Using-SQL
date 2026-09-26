@@ -288,3 +288,4 @@ JOIN Locations ls
 GROUP BY region, population
 ORDER BY Per_capita DESC
 ```
+![](https://github.com/oyekolaqudirat-cmd/Stolen-Vehicle-Analysis-Using-SQL/blob/main/Vehicle%20theft%20data%20modelling.png)
